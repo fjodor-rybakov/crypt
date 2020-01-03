@@ -1,0 +1,11 @@
+C:\projects\crypt\bin\Debug\netcoreapp3.0\crypt.exe
+C:\projects\crypt\bin\Debug\netcoreapp3.0\crypt.deps.json
+C:\projects\crypt\bin\Debug\netcoreapp3.0\crypt.runtimeconfig.json
+C:\projects\crypt\bin\Debug\netcoreapp3.0\crypt.runtimeconfig.dev.json
+C:\projects\crypt\bin\Debug\netcoreapp3.0\crypt.dll
+C:\projects\crypt\bin\Debug\netcoreapp3.0\crypt.pdb
+C:\projects\crypt\obj\Debug\netcoreapp3.0\crypt.csprojAssemblyReference.cache
+C:\projects\crypt\obj\Debug\netcoreapp3.0\crypt.AssemblyInfoInputs.cache
+C:\projects\crypt\obj\Debug\netcoreapp3.0\crypt.AssemblyInfo.cs
+C:\projects\crypt\obj\Debug\netcoreapp3.0\crypt.dll
+C:\projects\crypt\obj\Debug\netcoreapp3.0\crypt.pdb
